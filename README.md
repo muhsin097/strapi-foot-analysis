@@ -1,0 +1,1 @@
+# strapi-foot-analysis
